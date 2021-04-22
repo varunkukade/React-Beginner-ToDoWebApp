@@ -1,4 +1,5 @@
 This is a ToDoTask web app created in React js and npm.
+This is single page application.
 
 Functionalities on the app:
 
@@ -13,6 +14,8 @@ Functionalities on the app:
 5.Sort Tasks based on Priority and Creation date of task.
 
 6.Group by Tasks based on Priority ,Creation Date, Due Date of task.
+
+7.Search for specific task within the page.
 
 
 Just below are some things which need to be done in order to successfully run the code.
