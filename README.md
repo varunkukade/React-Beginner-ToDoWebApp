@@ -1,4 +1,4 @@
-This is a ToDo web app created in React js and npm.
+This is a ToDoTask web app created in React js and npm.
 
 Functionalities on the app:
 
