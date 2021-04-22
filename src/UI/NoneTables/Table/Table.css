@@ -1,0 +1,25 @@
+.AllButtons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ArrowIcon {
+  margin-left: 20px;
+  background-color: #0490fa;
+  color: white;
+  display: inline-block;
+  padding: 0 2%;
+  border-radius: 4px;
+}
+
+.ArrowIcon:hover,
+.ArrowIcon:active {
+  background-color: #0b7fd8;
+}

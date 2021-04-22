@@ -1,0 +1,62 @@
+input,
+textarea,
+select {
+  outline: none;
+}
+
+.EditTask {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.Summary {
+  width: 98%;
+  outline: none;
+  padding: 1%;
+  font-size: 15px;
+}
+.DuedateAndPriority {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.DuedateAndPriority input {
+  padding: 8px;
+  width: 89%;
+  font-size: 15px;
+  border: none;
+  background-color: rgb(248, 244, 244);
+}
+
+.DuedateAndPriority select {
+  -webkit-appearance: menulist-button;
+  height: 33px;
+  padding: 2%;
+  border-radius: 4px;
+  border-color: grey;
+  width: 200px;
+}
+
+.CancelAndSaveBtn {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 500px) {
+  .DuedateAndPriority select {
+    width: 150px;
+  }
+  textarea {
+    width: 335px;
+    height: 120px;
+  }
+  .DuedateAndPriority input {
+    width: 84%;
+  }
+  .DuedateAndPriority select {
+    width: 100px;
+  }
+}

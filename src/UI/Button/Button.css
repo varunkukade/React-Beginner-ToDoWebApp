@@ -1,0 +1,97 @@
+@media screen and (max-width: 500px) {
+  .Button {
+    margin-bottom: 6px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .Button {
+    margin-bottom: 6px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .Button {
+    margin-bottom: 6px;
+  }
+}
+
+.Button {
+  border: none;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 2% 2%;
+}
+.Button:disabled {
+  color: #ccc;
+  cursor: not-allowed;
+}
+.Button:first-of-type {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.Cancel {
+  margin-right: 10px;
+  background-color: grey;
+}
+.Cancel:hover,
+.Cancel:active {
+  background-color: rgb(112, 109, 109);
+  color: white;
+  text-decoration: none;
+}
+.Save {
+  background-color: #1faa59;
+  text-decoration: none;
+}
+
+.Save:hover,
+.Save:active {
+  background-color: #1a944d;
+  color: white;
+  text-decoration: none;
+}
+
+.View,
+.Delete,
+.Edit {
+  padding: 2.5% 4%;
+  border-radius: 5px;
+  color: white;
+  margin-right: 10px;
+  text-decoration: none;
+}
+.Delete {
+  background-color: #b4161b;
+}
+.Delete:hover,
+.Delete:active {
+  background-color: #a5181d;
+  color: white;
+  text-decoration: none;
+}
+.View {
+  background-color: #0b7fd8;
+}
+.View:hover,
+.View:active {
+  background-color: #0c76c7;
+  color: white;
+  text-decoration: none;
+}
+.Edit {
+  background-color: #6ec72d;
+}
+.Edit:hover,
+.Edit:active {
+  background-color: #65b32e;
+  color: white;
+  text-decoration: none;
+}
+.Yes {
+  padding: 1.2% 3%;
+}
+.No {
+  padding: 1.2% 3%;
+}
