@@ -1,3 +1,17 @@
+Just below are some things which need to be done in order to successfully run the code.
+
+1.After downloading the code extract zip file.
+
+2.Open that folder into Visual studio code.
+
+3.Open Vs code terminal and hit npm install .
+This will install node modules in our project.
+
+4.Then for running the code use npm run start:dev
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
