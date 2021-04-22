@@ -1,3 +1,20 @@
+This is a ToDo web app created in React js and npm.
+
+Functionalities on the app:
+
+1.Add the Task and delete the Task.
+
+2.Edit the Task and View the Task.
+
+3.Mark Tasks as completed.
+
+4.You can see 3 tabs i.e All tasks,Pending tasks ,Completed tasks.
+
+5.Sort Tasks based on Priority and Creation date of task.
+
+6.Group by Tasks based on Priority ,Creation Date, Due Date of task.
+
+
 Just below are some things which need to be done in order to successfully run the code.
 
 1.After downloading the code extract zip file.
