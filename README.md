@@ -1,4 +1,5 @@
-This is a ToDoTask web app created in React js and npm.
+This is a ToDoTask web app created in React js and npm.This is completely Mobile responsive design.
+
 This is single page application.
 
 Functionalities on the app:
