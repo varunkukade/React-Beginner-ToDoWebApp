@@ -2,7 +2,7 @@ This is a ToDoTask web app created in React js and npm.This is completely Mobile
 
 This is single page application.
 
-Functionalities on the app:
+# Functionalities on the app:
 
 1.Add the Task and delete the Task.
 
@@ -19,7 +19,7 @@ Functionalities on the app:
 7.Search for specific task within the page.
 
 
-Just below are some things which need to be done in order to successfully run the code.
+# Just below are some things which need to be done in order to successfully run the code.
 
 1.After downloading the code extract zip file.
 
@@ -29,6 +29,32 @@ Just below are some things which need to be done in order to successfully run th
 This will install node modules in our project.
 
 4.Then for running the code use npm run start:dev
+
+# Screenshots of the web-app
+
+
+![1](https://user-images.githubusercontent.com/66090579/116735774-d8620d00-a9a3-11eb-8d20-7f0f1016cf63.png)
+![2](https://user-images.githubusercontent.com/66090579/116735782-da2bd080-a9a3-11eb-826a-40529dd0c061.png)
+![3](https://user-images.githubusercontent.com/66090579/116735786-db5cfd80-a9a3-11eb-9f40-b89862411623.png)
+![4](https://user-images.githubusercontent.com/66090579/116735794-dc8e2a80-a9a3-11eb-8a96-eb30784bf235.png)
+![5](https://user-images.githubusercontent.com/66090579/116735802-de57ee00-a9a3-11eb-973f-de317fba6084.png)
+![6](https://user-images.githubusercontent.com/66090579/116735806-e021b180-a9a3-11eb-9931-e8e2c90ba9c1.png)
+![7](https://user-images.githubusercontent.com/66090579/116735813-e152de80-a9a3-11eb-844e-c8cf156de136.png)
+![8](https://user-images.githubusercontent.com/66090579/116735819-e31ca200-a9a3-11eb-959f-67c7acb74942.png)
+![9](https://user-images.githubusercontent.com/66090579/116735824-e44dcf00-a9a3-11eb-9bcc-cb7f90df7d38.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
